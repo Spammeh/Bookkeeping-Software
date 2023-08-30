@@ -1,0 +1,5 @@
+Transaction ID,Date,Description,Debit Account,Credit Account,Amount
+c77eaef0,2023-01-04,Shipping,Bank,0,50.00
+fc89d1cc,2023-01-01,AMEX,Liability,0,200.00
+03a895f9,2023-01-01,AMEX,Bank Account,0,200.00
+1fa53576,2023-01-01,Inventory Purchase,Expense,0,200.00
